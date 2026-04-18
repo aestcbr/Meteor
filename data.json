@@ -1,0 +1,12 @@
+{
+  "meteor_types": [
+    {
+      "name": "Stony Meteorite",
+      "composition": "Silicate minerals"
+    },
+    {
+      "name": "Iron Meteorite",
+      "composition": "Iron and nickel"
+    }
+  ]
+}
